@@ -1,0 +1,18 @@
+body {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 960px;
+    background-image: url("../images/memphis_mini.png");
+    background-repeat: repeat;
+    display: block;
+}
+
+.suefooter {
+    background-color: #666666;
+    text-align: center;
+    color: #ffffff;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: #4aaaa5;
+    font-size: 12px;
+}
