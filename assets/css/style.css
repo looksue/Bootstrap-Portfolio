@@ -71,3 +71,22 @@ p {
     border-top-color: #4aaaa5;
     font-size: 12px;
 }
+
+.div-port {
+    margin: 10px 10px 10px 0px;
+    float: left;
+    position: relative;
+    text-align: center;
+    color: white;  
+}
+
+.div-label {
+    position: absolute;
+    bottom: 40px;
+    margin: 0px;  
+    background-color: #4aaaa5;
+    width: 180px;
+    height: 40px;
+    line-height: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
